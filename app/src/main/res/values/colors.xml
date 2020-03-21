@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryDark">#BB86FC</color>
+    <color name="colorAccent">#BB86FC</color>
+    <color name="SplashScreenColor">#0984E3</color>
+    <color name="splashFontcolor">#ffffff</color>
+    <color name="MainBackground">#222C35</color>
+<!--    2C3E50-->
+    <color name="fontColorPrimary">#B2BEC3</color>
+    <color name="navBarColor">#263646</color>
+<!--    34495E-->
+    <color name="errorColor">#eb4d4b</color>
+    <color name="DarkThemeBackground">#121212</color>
+    <color name="DarkThemeSecondary">#1e1e1e</color>
+    <color name="TextPrimaryColor">#e1e1e1</color>
+    <color name="PinkColorAccent">#BB86FC</color>
+
+    <color name="bmi_blue_light_very_underweight">#3498db</color>
+    <color name="bmi_blue_dark_underweight">#2980b9</color>
+    <color name="bmi_green_normal">#27ae60</color>
+    <color name="bmi_orange_overweight">#f39c12</color>
+    <color name="bmi_red_obese">#e74c3c</color>
+
+
+
+</resources>
